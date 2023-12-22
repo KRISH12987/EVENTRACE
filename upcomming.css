@@ -1,0 +1,76 @@
+body{
+    background-color: black;
+}
+
+.popat
+{
+box-shadow: 0 0 12px purple,
+0 0 30px purple;
+}
+button:hover{
+box-shadow: 0 0 12px purple,
+0 0 30px purple, 0 0 50px purple,
+0 0 100px purple, 0 0 200px purple;
+}
+
+.popam
+{
+box-shadow: 0 0 12px green,
+0 0 30px green;
+}
+button:hover{
+box-shadow: 0 0 12px green,
+0 0 30px green, 0 0 50px green,
+0 0 100px green, 0 0 200px green;
+}
+
+
+.popaa
+{
+box-shadow: 0 0 12px yellow,
+0 0 30px yellow;
+}
+button:hover{
+box-shadow: 0 0 12px yellow,
+0 0 30px yellow, 0 0 50px yellow,
+0 0 100px yellow, 0 0 200px yellow;
+}
+
+.popav
+{
+box-shadow: 0 0 12px blue,
+0 0 30px blue;
+}
+button:hover{
+box-shadow: 0 0 12px blue,
+0 0 30px blue, 0 0 50px blue,
+0 0 100px blue, 0 0 200px blue;
+}
+
+
+.popab
+    {
+box-shadow: 0 0 12px red,
+0 0 30px red;
+}
+button:hover{
+box-shadow: 0 0 12px red,
+0 0 30px red, 0 0 50px red,
+0 0 100px red, 0 0 200px red;
+}
+
+
+.popar
+{
+box-shadow: 0 0 12px orange,
+0 0 30px orange;
+}
+button:hover{
+box-shadow: 0 0 12px orange,
+0 0 30px orange, 0 0 50px orange,
+0 0 100px orange, 0 0 200px orange;
+}
+#myInput{width: 1500;
+height: 35px;
+}
+
